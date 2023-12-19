@@ -1,0 +1,80 @@
+{
+  "alunos": [
+    {
+      "nome": "Patrícia Marcela Sara Novaes",
+      "matricula": "003",
+      "curso": "Sistemas para internet",
+      "id": 3
+    },
+    {
+      "nome": "Editado6",
+      "matricula": "Enim fugiat adipisc",
+      "curso": "Sistemas para internet",
+      "id": 4
+    },
+    {
+      "nome": "Editado7",
+      "matricula": "Enim fugiat adipisc",
+      "curso": "Sistemas para internet",
+      "id": 6
+    }
+  ],
+  "disciplinas": [
+    {
+      "id": 1,
+      "nome": "Introdução a progração com scripts",
+      "cargaHoraria": "36h",
+      "professor": "Tiago Daniel Fernando Baptista",
+      "status": "Obrigatória",
+      "observacoes": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "nome": "Fundamentos da Computação",
+      "cargaHoraria": "60h",
+      "professor": "Marcela Vera Mendes",
+      "status": "Obrigatória",
+      "observacoes": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "nome": "Linguagens de Marcação",
+      "cargaHoraria": "67h",
+      "professor": "Marcela Vera Mendes",
+      "status": "Obrigatória",
+      "observacoes": "Lorem ipsum dolor sit amet consectetur adipisicing."
+    },
+    {
+      "id": 4,
+      "nome": "Português Instrumental",
+      "cargaHoraria": "50h",
+      "professor": "Maitê Analu Carolina Aragão",
+      "status": "Opcional",
+      "observacoes": "Lorem ipsum dolor sit adipisicing elit."
+    },
+    {
+      "nome": "Aut enim odit ea ips",
+      "cargaHoraria": "Pariatur Voluptas i",
+      "professor": "Ut qui libero in dic",
+      "status": "Opcional",
+      "observacoes": "Ullam recusandae Ex",
+      "id": 5
+    },
+    {
+      "nome": "Editei",
+      "cargaHoraria": "Est dolorem iusto si",
+      "professor": "Irure ea earum maxim",
+      "status": "Opcional",
+      "observacoes": "Magnam nisi anim odi",
+      "id": 6
+    },
+    {
+      "nome": "Fundamentos da Computação",
+      "cargaHoraria": "60h",
+      "professor": "Marcela Vera Mendes",
+      "status": "Obrigatória",
+      "observacoes": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "id": 7
+    }
+  ]
+}
